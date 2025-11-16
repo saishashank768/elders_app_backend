@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+media/
+venv/
+node_modules/
+*.log
+coverage/
+.pytest_cache/
+docker-compose.override.yml
+tmp/
+celerybeat-schedule

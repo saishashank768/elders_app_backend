@@ -1,0 +1,32 @@
+[
+  {
+    "model": "core.role",
+    "pk": 1,
+    "fields": {"name": "donor"}
+  },
+  {
+    "model": "core.role",
+    "pk": 2,
+    "fields": {"name": "ngo"}
+  },
+  {
+    "model": "core.role",
+    "pk": 3,
+    "fields": {"name": "volunteer"}
+  },
+  {
+    "model": "core.city",
+    "pk": 1,
+    "fields": {"name": "Mumbai", "state": "Maharashtra", "country": "India"}
+  },
+  {
+    "model": "core.city",
+    "pk": 2,
+    "fields": {"name": "Delhi", "state": "Delhi", "country": "India"}
+  },
+  {
+    "model": "core.city",
+    "pk": 3,
+    "fields": {"name": "Bengaluru", "state": "Karnataka", "country": "India"}
+  }
+]
